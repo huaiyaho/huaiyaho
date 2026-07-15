@@ -1,0 +1,11 @@
+{
+  "name": "stockpilot-runtime",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "stock-sdk": "^2.0.0"
+  }
+}
