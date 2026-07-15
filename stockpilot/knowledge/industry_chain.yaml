@@ -1,0 +1,28 @@
+themes:
+  ai_compute:
+    name: AI算力
+    chains:
+      cpo:
+        description: 光模块与高速互联
+      pcb:
+        description: 高速PCB与服务器板
+      liquid_cooling:
+        description: AI服务器散热
+      storage:
+        description: 存储与HBM
+  semiconductor:
+    name: 半导体国产替代
+    chains:
+      photoresist:
+        description: 光刻胶材料
+      equipment:
+        description: 半导体设备
+      packaging:
+        description: 先进封装
+  robotics:
+    name: 人形机器人
+    chains:
+      reducer:
+        description: 精密减速器
+      servo:
+        description: 伺服系统
