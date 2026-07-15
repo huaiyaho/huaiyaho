@@ -1,0 +1,10 @@
+{
+  "market": "CN",
+  "database": "stockpilot.db",
+  "score": {
+    "trend": 0.4,
+    "volume": 0.25,
+    "strength": 0.2,
+    "risk": 0.15
+  }
+}
